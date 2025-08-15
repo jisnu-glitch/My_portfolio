@@ -64,7 +64,7 @@ This portfolio is designed to be easily customized with your own information:
 
       * **Text:** Replace all placeholder text like `[Your Name]`, `[Your Alias]`, project descriptions, and your origin story with your own content.
       * **Links:** Update the social media links in the contact section and the project links (GitHub/Demo) to point to your profiles and projects.
-      * **Resume:** Add your resume PDF to the project folder and update the link in the "Download Top Secret File" button.
+      
 
 2.  **`style.css`:**
 
