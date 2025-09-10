@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[Your Name] - The Code Crusader</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="hero">
+        <div class="hero-content">
+            <h2 class="comic-subtitle">I'am</h2>
+            <h1 class="neon-title">Jishnu Vijayan</h1>
+            <p class="tagline"></p>
+        </div>
+    </header>
+    
+    <canvas id="particles-canvas"></canvas>
+
+    <main>
+        <section id="about" class="container">
+            <div class="comic-panel">
+                <h2 class="section-title">Origin Story</h2>
+                <p>
+                    My journey began not in a shadowy alley, but in front of a glowing screen, captivated by the power to create worlds from pure logic. What started with a simple "Hello, World!" soon became a crusade against inefficient code and clunky user experiences. Now, I wield my skills in web development to build solutions that are powerful, elegant, and impactful.
+                </p>
+            </div>
+        </section>
+
+        <section id="skills" class="container">
+            <h2 class="section-title">Gadget Arsenal</h2>
+            <div class="utility-belt">
+                <div class="skill-item" ><i class="fab fa-js-square"></i><span>JavaScript</span></div>
+                <div class="skill-item" data-text="ZAP!"><i class="fab fa-python"></i><span>Python</span></div>
+                <div class="skill-item" data-text="WHOOSH!"><i class="fab fa-react"></i><span>React</span></div>
+                <div class="skill-item" data-text="CLANG!"><i class="fab fa-html5"></i><span>HTML5</span></div>
+                <div class="skill-item" data-text="SWISH!"><i class="fab fa-css3-alt"></i><span>CSS3</span></div>
+                <div class="skill-item" data-text="BAM!"><i class="fab fa-git-alt"></i><span>Git</span></div>
+            </div>
+        </section>
+
+        <section id="languages" class="container">
+            <div class="speech-bubbles">
+                <div class="bubble">English</div>
+                <div class="bubble">Malayalam</div>
+                <div class="bubble">Tamil</div>
+            </div>
+        </section>
+
+        <section id="projects" class="container">
+            <h2 class="section-title">Completed Missions</h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <div class="card-content">
+                        <h3>Syllabus Tracker</h3>
+                        <p class="mission-brief">A task management app designed to help users conquer their daily chaos with precision and style.</p>
+                        <div class="tech-stack"><span>React</span><span>Firebase</span></div>
+                        <div class="card-links">
+                            <a href="#" class="btn-secondary" target="_blank">GitHub <i class="fab fa-github"></i></a>
+                            <a href="#" class="btn-secondary" target="_blank">Live Demo <i class="fa fa-external-link-alt"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="project-card">
+                     <div class="card-content">
+                        <h3>Gotham Weather-Bot</h3>
+                        <p class="mission-brief">A dynamic weather dashboard providing real-time forecasts with a dark, cinematic interface.</p>
+                        <div class="tech-stack"><span>JavaScript</span><span>API</span></div>
+                        <div class="card-links">
+                            <a href="#" class="btn-secondary" target="_blank">GitHub <i class="fab fa-github"></i></a>
+                            <a href="#" class="btn-secondary" target="_blank">Live Demo <i class="fa fa-external-link-alt"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="project-card">
+                     <div class="card-content">
+                        <h3>Arkham Analytics</h3>
+                        <p class="mission-brief">Data analysis project uncovering patterns in public datasets, presented with compelling visualizations.</p>
+                        <div class="tech-stack"><span>Python</span><span>Pandas</span></div>
+                        <div class="card-links">
+                            <a href="#" class="btn-secondary" target="_blank">GitHub <i class="fab fa-github"></i></a>
+                            <a href="#" class="btn-secondary" target="_blank">Live Demo <i class="fa fa-external-link-alt"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section id="timeline" class="container">
+            <h2 class="section-title">Training Log</h2>
+            <div class="comic-strip">
+                <div class="strip-panel">
+                    <h4>PAST: FORGING THE FOUNDATION</h4>
+                    <p>Mastered the fundamentals of C++, Data Structures, and Web Development.</p>
+                </div>
+                <div class="strip-panel">
+                    <h4>PRESENT: IN THE TRENCHES</h4>
+                    <p>Deep diving into Advanced Algorithms, React, and System Design.</p>
+                </div>
+                <div class="strip-panel">
+                    <h4>FUTURE: THE NEXT FRONTIER</h4>
+                    <p>Preparing for battle in the realms of AI/ML and DevOps.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact" class="container">
+            <h2 class="section-title">Signal The Hero</h2>
+            <div class="contact-console">
+                <form action="https://formspree.io/f/xovlbbgd" method="POST">
+                    <input type="text" name="name" placeholder="Your Name" required>
+                    <input type="email" name="email" placeholder="Your Email Address" required>
+                    <textarea name="message" rows="5" placeholder="Your Mission Brief" required></textarea>
+                    <button type="submit" class="btn-primary">Send Signal</button>
+                </form>
+                <div class="social-links">
+                    <a href="https://github.com/jisnu-glitch/" target="_blank"><i class="fab fa-github"></i></a>
+                    <a href="https://www.linkedin.com/in/jishnu-vijayan-2415b1323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="_blank"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://x.com/j_isnu" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+                </div>
+                
+            </div>
+        </section>
+
+    </main>
+    
+    <footer class="container">
+        <blockquote>“It’s not who I am underneath, but what I do that defines me.”</blockquote>
+    </footer>
+
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <script src="script.js"></script>
+    
+</body>
+</html>
