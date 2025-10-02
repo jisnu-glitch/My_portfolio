@@ -1,86 +1,92 @@
-<<<<<<< HEAD
-"# My_portfolio" 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD4F6QO4v0VqD0Q/giphy.gif" width="180"/>
+</p>
 
-=======
+<h1 align="center">Hi 👋, I'm Jishnu Vijayan</h1>
+<h3 align="center">💻 CS Engineer | 🤖 AI & ML Enthusiast | 🌐 Web Developer</h3>
 
+<p align="center">
+  <a href="mailto:jishnuvijayan168@gmail.com"><img src="https://img.shields.io/badge/Email-jishnuvijayan168@gmail.com-blueviolet?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://github.com/jisnu-glitch"><img src="https://img.shields.io/badge/GitHub-@jisnu--glitch-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/jishnu-vijayan-/"><img src="https://img.shields.io/badge/LinkedIn-Jishnu-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+</p>
 
-# The Code Crusader 🦇 - A Batman-Inspired Developer Portfolio
+---
 
-Welcome to my personal portfolio, designed with a dark, cinematic, comic-book aesthetic inspired by Batman. This isn't just a resume; it's a showcase of my skills and projects, presented as a hero's journey through the world of technology.
+## 🌟 About Me
+I’m a **CS Engineering student** passionate about **AI, ML & Web Development**.  
+I love building **projects that combine algorithms, data structures, and real-world applications**.  
 
-### \#\# 🚀 [Live Demo Link](https://my-portfolio-two-kappa-19.vercel.app/)
+- 🔭 Currently working on **ML & Web Apps**  
+- 🌱 Learning **advanced AI & full-stack dev**  
+- 💬 Ask me about **Python, C, SQL, Flask, Django, OpenCV**  
+- ⚡ Fun fact: Coffee fuels my coding sessions ☕💻  
 
+---
 
+## 🛠️ Skills & Tools
 
------
+<p align="center">
+  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv" />
+</p>
 
-### \#\# About The Project
+---
 
-This project is a fully responsive, single-page personal portfolio built for a Computer Science student. The goal was to create a website that is both thematically engaging and professionally polished, suitable for showcasing skills and projects to recruiters and potential employers. The entire user interface is designed to feel like stepping into a superhero's digital Batcave, with advanced animations and a consistent comic-book style.
+## 🚀 Projects Showcase
 
------
+<p align="center">
+  <a href="https://github.com/jisnu-glitch/Syllabus-Progress-Tracker">
+    <img src="https://img.shields.io/badge/Syllabus_Tracker-HTML_CSS_JS-orange?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/jisnu-glitch/Fake-News-Movie-Recommender">
+    <img src="https://img.shields.io/badge/FakeNews_Recommender-Python-green?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/jisnu-glitch/Chapatti-Roundness-Detector">
+    <img src="https://img.shields.io/badge/Chapatti_Detector-Flask_OpenCV-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/jisnu-glitch/Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Web-FF69B4?style=for-the-badge" />
+  </a>
+</p>
 
-### \#\# ✨ Key Features
+---
 
-  * **Cinematic Hero Section:** An animated intro with a neon-glowing title and an interactive spotlight effect that follows the cursor.
-  * **Comic-Style Sections:** Each section, from the "Origin Story" to "Completed Missions," is styled like a comic book panel.
-  * **Advanced Animations:** Built with **GSAP (GreenSock Animation Platform)** for smooth, scroll-triggered animations like 3D card flips and staggered text reveals.
-  * **Utility Belt Arsenal:** A dynamic skills section where tech icons pop into view like gadgets.
-  * **Functional Contact Form:** The "Signal the Hero" form is fully functional and sends submission details directly to an email address using Formspree.
-  * **Fully Responsive:** The design adapts seamlessly to all devices, from desktops to mobile phones.
+## 📊 GitHub Stats
 
------
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jisnu-glitch&show_icons=true&theme=dark&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisnu-glitch&layout=compact&theme=dark" width="48%" />
+</p>
 
-### \#\# 🛠️ Tech Stack
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jisnu-glitch&theme=dark" />
+</p>
 
-This project was built using modern web technologies:
+---
 
-  * **HTML5:** For the core structure and content.
-  * **CSS3:** For all styling, including Flexbox, Grid, and custom properties for theming.
-  * **JavaScript (ES6+):** For interactivity and DOM manipulation.
-  * **[GSAP (GreenSock)](https://gsap.com/):** A professional-grade animation library for all the advanced visual effects and scroll triggers.
-  * **[Formspree](https://formspree.io/):** For handling the contact form submissions without a backend server.
+## 📫 Contact Me
+- ✉️ Email: [jishnuvijayan168@gmail.com](mailto:jishnuvijayan168@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/jishnu-vijayan-/](https://www.linkedin.com/in/jishnu-vijayan-/)  
+- 💻 GitHub: [@jisnu-glitch](https://github.com/jisnu-glitch)
 
------
+---
 
-### \#\# ⚙️ Setup and Installation
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohs7KViFh2i6ex1Rm/giphy.gif" width="100"/>
+</p>
 
-To run this project locally, follow these simple steps:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/your-username/bat-portfolio.git
-    ```
-2.  **Navigate to the project directory:**
-    ```bash
-    cd bat-portfolio
-    ```
-3.  **Open `index.html` in your browser:**
-    You can simply double-click the `index.html` file or use a live server extension in your code editor (like VS Code's "Live Server").
-
------
-
-### \#\# ✏️ How to Customize
-
-This portfolio is designed to be easily customized with your own information:
-
-1.  **`index.html`:**
-
-      * **Text:** Replace all placeholder text like `[Your Name]`, `[Your Alias]`, project descriptions, and your origin story with your own content.
-      * **Links:** Update the social media links in the contact section and the project links (GitHub/Demo) to point to your profiles and projects.
-      
-
-2.  **`style.css`:**
-
-      * **Images:** Replace the background image in the `.hero` class with a picture of your choice.
-      * **Colors:** Change the primary colors by modifying the CSS variables at the top of the file (`--yellow`, `--black`, etc.).
-
-3.  **Contact Form:**
-
-      * Create a free account on [Formspree](https://formspree.io/).
-      * Create a new form and get your unique endpoint URL.
-      * Replace the placeholder `action` URL in the `<form>` tag inside `index.html` with your Formspree URL.
->>>>>>> a7dea3e87ac356d75e8188b2763caa1b2d4dce60
+<p align="center">
+  “Code like a magician, debug like a detective.” ✨
+</p>
 
 
 
