@@ -17,11 +17,6 @@
 I’m a **CS Engineering student** passionate about **AI, ML & Web Development**.  
 I love building **projects that combine algorithms, data structures, and real-world applications**.  
 
-- 🔭 Currently working on **ML & Web Apps**  
-- 🌱 Learning **advanced AI & full-stack dev**  
-- 💬 Ask me about **Python, C, SQL, Flask, Django, OpenCV**  
-- ⚡ Fun fact: Coffee fuels my coding sessions ☕💻  
-
 ---
 
 ## 🛠️ Skills & Tools
